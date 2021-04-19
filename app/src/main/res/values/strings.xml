@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Qual filho</string>
+    <string name="todo">TODO</string>
+    <string name="jogar">JOGAR</string>
+    <string name="qual_alencar_ser_sorteado">Qual Alencar será sorteado?</string>
+    <string name="o_jogo_consiste_em_clicar_na_imagem_e_ver_quem_ser_sorteado">o jogo consiste em clicar na imagem e ver quem será sorteado</string>
+    <string name="volta">volta</string>
+    <string name="isa">Isa alencar</string>
+    <string name="ma">Má Alencar</string>
+    <string name="re">Renato Alencar</string>
+    <string name="duda">Duda Alencar</string>
+    <string name="se">Sérgio Alencar</string>
+    <string name="padrao">Quem será?</string>
+</resources>
